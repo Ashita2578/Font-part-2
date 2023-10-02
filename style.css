@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnVQYrGpjAB7er7t8TKGV0i5UezOzLbQriGQ&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.div_body{
+    background-color: hotpink;
+    background-size: 50%;
+}
+#head{
+    color: blue;
+}
+#one{
+    color: rgb(71, 255, 71);
+    font-size: 15px;
+}
+#two{
+    color: darkblue;
+}
+canvas{
+    border:5px solid rgb(25, 205, 250);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(250, 25, 243);
+}
+.copy_right_footer{
+    position:fixed;
+    color:rgb(103, 74, 250);
+    font-weight: bold;
+    bottom: 10;
+    width: 100%;
+    background-color:rgb(255, 221, 0) ;
+    line-height: 3;
+    text-align: center;
+}
